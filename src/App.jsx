@@ -1,4 +1,7 @@
 import styles from './style.js';
+import Navbar from './components/NavBar.jsx';
+import Hero from './components/Hero.jsx';
+
 
 const App = () => {
     return (

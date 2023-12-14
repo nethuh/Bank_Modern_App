@@ -1,6 +1,5 @@
 import styles from './style.js';
-import Navbar from './components/NavBar.jsx';
-import Hero from './components/Hero.jsx';
+import { Billing, Business, CardDeal, Clients, CTA, Footer, Navbar, Stats, Testimonials, Hero } from "./components";
 
 
 const App = () => {
